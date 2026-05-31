@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Inter-shell communication bus for ZeroClaws — async messaging between shells with trust, routing, and briefings"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-inter-shell"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
